@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="header_rotate_duration">300</integer>
+    <integer name="header_scroll_duration">300</integer>
+    <integer name="footer_scroll_duration">300</integer>
+    <integer name="header_handler_post_delayed">1000</integer>
+    <integer name="footer_handler_post_delayed">1000</integer>
+
+</resources>
